@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/erosMariano/erosMariano/blob/main/eros.png" width="350"/>
+
 
 # Hello World? Hey people 🚀🔥
 My name is Eros Mariano, but you can just call me Eros! I'm from Brazil.
