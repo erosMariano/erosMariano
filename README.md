@@ -5,8 +5,6 @@
 My name is Eros Mariano, but you can just call me Eros! I'm from Brazil.
  I'm a Front-End Developer, I've been working with it since 2019.❤️
 
-##### 🍃 "A verdadeira vitória não é ganhando Muito menos derrotando alguém mais forte que você. <br> É encontrando algo no mundo que você vai amar tanto <br> Que não vai se importar em dar sua vida pra proteger"🍃
-
 - 📍 I'm from São Paulo
 - 👨‍💻 Front-End Developer
 
